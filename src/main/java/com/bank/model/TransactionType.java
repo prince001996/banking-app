@@ -1,0 +1,5 @@
+package com.bank.model;
+
+public enum TransactionType {
+    DEBIT, CREDIT, FAILURE_WRONG_SENDER_ACCOUNT, FAILURE_WRONG_RECIEVER_ACCOUNT, FAILURE_LOW_BALANCE;
+}
