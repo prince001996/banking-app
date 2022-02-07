@@ -17,7 +17,7 @@ While modern banks have evolved to serve a plethora of functions, at their core,
   - Retrieve transfer history for a given account.
   
 ### Steps to Run the application :
-* clone the project from http://atlys-stlisj@git.codesubmit.io/atlys/python-any-framework-osefhq
+* clone the project
 * run the project
   * Run using IDE
     * open the project in the IDE as a maven project
